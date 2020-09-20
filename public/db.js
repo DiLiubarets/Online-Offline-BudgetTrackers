@@ -20,7 +20,7 @@ request.onupgradeneeded = ({ target }) => {
 
 
 request.onerror = function(event) {
-  console.log("Woops! " + event.target.errorCode);
+  console.error(event);
 };
 
 function saveRecord(record) {
