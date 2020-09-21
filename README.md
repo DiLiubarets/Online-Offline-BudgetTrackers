@@ -1,6 +1,7 @@
 # Online/Offline Budget Trackers
 
-(Live Demo)[https://budgetstraker.herokuapp.com]
+[Live Demo](https://budgetstraker.herokuapp.com)
+
 Functionality of existing Budget Tracker application to allow for offline access and functionality.
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, can populate the total when brought back online.
